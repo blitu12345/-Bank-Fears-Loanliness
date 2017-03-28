@@ -1,0 +1,2 @@
+# -Bank-Fears-Loanliness
+To help Indessa Bank  identify default members(unable to satisfy terms of loan).We were provided with  dataset containing  1 lakh members detail and with 45 features each.While developing my model, i have applied feature engineering, statistical test (like chi-square test ,t-test and Pearson correlation),visualisation techniques(box plot,scatter plot,histogram and bar chart) and finally applied some fine ML algorithms(Logistic Regression,Random Forest and XGBoost).I was able to secure a rank within top 4% of users.
